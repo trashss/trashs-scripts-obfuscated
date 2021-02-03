@@ -1,0 +1,1 @@
+# trashs-scripts-obfuscated
